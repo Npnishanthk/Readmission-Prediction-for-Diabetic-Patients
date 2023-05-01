@@ -10,6 +10,6 @@ There are three Steps to the Project
 
 * Data Pre Processing - The file contains the code chunks which were to clean the dataset (remove NULL values, data type mismatches)
 * Exploratory Data Analysis - Univariate, Bivariate Analysis , Distributions and Boxplots and important patterns and trends were observed in the dataset 
-* Modelling and Performance Evualtion - Hypothesis Testing Using ANOVA, Chi-Square Tests , CLassification Modelling and Performance Evaluation using ROC-AUC Curves and classification matrix and other metrics 
+* Modelling and Performance Evualtion - Hypothesis Testing Using ANOVA, Chi-Square Tests , CLassification Modelling(SVM,Logistic Regression,KNN,Naive Bayes) and Performance Evaluation using ROC-AUC Curves and classification matrix and other metrics 
 
 The Modelling methods were able to provide the significant factors associated with readmission of patients, Increasing the Number of Lab tests performed could signficantly decrease the readmission rate 
