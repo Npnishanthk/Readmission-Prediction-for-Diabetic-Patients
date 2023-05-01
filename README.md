@@ -5,7 +5,9 @@ Hospital readmission rates are a significant contributor to hospital inpatient s
 The primary objective of the project is to be able to predict if a diabetic patient will be readmitted to the hospital. In the context of this dataset readmission is in three categories: greater than 30 days, less than 30 days, and “No”. The dataset contains variables related to diagnosis, secondary diagnosis, and variables containing information about medication prescribed to the patients while admitted to the Hospital . The Target variable categories "<30 days", and "No" were combined to form the categories "Yes", "No".
 
 * The data set was obtained from the UCI Machine Learning Repo,https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
+
 There are three Steps to the Project 
+
 * Data Pre Processing - The file contains the code chunks which were to clean the dataset (remove NULL values, data type mismatches)
 * Exploratory Data Analysis - Univariate, Bivariate Analysis , Distributions and Boxplots and important patterns and trends were observed in the dataset 
 * Modelling and Performance Evualtion - Hypothesis Testing Using ANOVA, Chi-Square Tests , CLassification Modelling and Performance Evaluation using ROC-AUC Curves and classification matrix and other metrics 
